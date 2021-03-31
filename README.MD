@@ -7,7 +7,7 @@
 Controle financeiro com o layout montado em HTML e CSS e controlado totalmente por Javascript.
 Deploy da aplicação:
 
-    https://isaacwrk.github.io/index.html
+    https://isaacwrk.github.io
     
 Para testes no seu ambiente local execute um git clone neste repositório
 
